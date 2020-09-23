@@ -17,3 +17,5 @@ API 문서 업데이트 전까지의 INFO CTF 사이트 프론트엔드 코드�
 - 문제 목록 불러오기 - 완료
 - 문제 파일 삭제 - 완료
 - 50위 랭킹 불러오기 - 완료
+## 사용 기술
+React.js, Styled-component, React-redux, redux-saga
